@@ -233,7 +233,7 @@ header .header-content .header-content-inner p {
   color: white;
   opacity: 0;
   display: block;
-  background: #C0EEE8;
+  background: rgba(192,238,232, .9);
   position: absolute;
   bottom: 0;
   text-align: center;
